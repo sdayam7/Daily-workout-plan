@@ -1,0 +1,17 @@
+.images {
+    height: 200px;
+    width: 300px;
+    margin-left: 100px;
+}
+
+p {
+    text-align: center;
+    font-size: medium;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: rgb(239, 200, 200);
+}
+
+.box-1 {
+    background-color: rgb(171, 216, 216);
+}
